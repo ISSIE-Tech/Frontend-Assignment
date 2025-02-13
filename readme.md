@@ -4,7 +4,7 @@
 
 ## Let's create a Pokedex!
 
-![alt text](pokedex.webp)
+![alt text](./images/pokedex.webp)
 
 โปเกม่อน คือสิ่งมีชีวิตที่น่ารักที่สุดในโลก และเป็นสิ่งมีชีวินที่พวกเรานักพัฒนาใน ISSIE ต่างโปรดปรานกันแบบสุด ๆ
 
